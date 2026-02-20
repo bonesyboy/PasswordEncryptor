@@ -8,4 +8,10 @@ any C# ide. From there you can just put in any password in the PasswordEncryptio
 print to the console the encrypted version.
 
 Lastly again do NOT put in special characters it will not work. You are free to make a version that can do that,
-but this version does not.
+but this version does not. This password encryption is for sure not the best out there so keep that in mind
+if you want to seriously use this. As there are no guarentees that this is even remotly unbreakable, use 
+at your own risk.
+
+Side note: since this repo is public anyone who looks at this will be able to decrypt the passwords that are encrypted
+with this program. So if you really do want to use this I would highly suggest you make some changes here and there, so
+that others cannot just use this as decryptor.
